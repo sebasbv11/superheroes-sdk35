@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superhéroes</string>
+    <string name="hero1">Nick, de noche y de día</string>
+    <string name="description1">El héroe de Jetpack</string>
+    <string name="hero2">Protector de la realidad</string>
+    <string name="description2">Comprende la verdad absoluta</string>
+    <string name="hero3">Andre el gigante</string>
+    <string name="description3">Imita la luz y la noche para camuflarse</string>
+    <string name="hero4">Benjamin el valiente</string>
+    <string name="description4">Usa el poder de Canary para desarrollar con valentía</string>
+    <string name="hero5">Maru la magnífica</string>
+    <string name="description5">Se desliza sin esfuerzo para salvar el día</string>
+    <string name="hero6">Yasmine la dinámica</string>
+    <string name="description6">Cambia de forma y transmite energía</string>
+</resources>
